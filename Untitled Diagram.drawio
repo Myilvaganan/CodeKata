@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T06:42:03.088Z" agent="5.0 (Macintosh)" version="19.0.3" etag="6nnYODPJspqr4vg7Gfmz" type="github"><diagram id="UsKPJLYdfG397lLPU29d">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-10T03:37:42.879Z" agent="5.0 (Macintosh)" etag="pdR8XYf5uaXpfNYcuBB0" version="19.0.3" type="github">
+  <diagram id="UsKPJLYdfG397lLPU29d" name="Page-1">
+    <mxGraphModel dx="1248" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="40" width="310" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-3" value="Amazon Pay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="50" y="20" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-8" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;MUNICIPAL_TAX&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-11" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;SUBSCRIPTIONS&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-28" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;HEALTH_INSURANCE&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="170" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-29" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;GOLD_BUY&lt;span class=&quot;Apple-converted-space&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -moz-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="210" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-38" value="ELECTRICITY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-41" value="DELHI ELECTRICTY BOARD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="350" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-42" value="TAMILNADU ELECTRICTY BOARD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="80" y="410" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-43" value="ASINS ID: 5676" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="210" y="285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-47" value="&lt;font color=&quot;#FF0000&quot;&gt;Amazon Pay can not be selected with other advertisers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HZ6LXf2WOl9zafr3Ri61-4">
+          <mxGeometry x="-230" y="60" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-30" value="ASINS ID: 234" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-31" value="ASINS ID: 456" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-32" value="ASINS ID: 3456" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-33" value="ASINS ID: 5676" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-34" value="ALL_BILLERS" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-35" value="ALL_BILLERS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-36" value="ALL_BILLERS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-37" value="ALL_BILLERS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-44" value="BILELRS ID: 5676" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="450" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-45" value="BILELRS ID: 234" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-46" value="&lt;h1&gt;WORKFLOW&lt;/h1&gt;User can select all the sub categories under Amazon Pay. It indicates that if user selects MUNICIPAL TAX, all the merchants are selected. &lt;br&gt;&lt;br&gt;&lt;div&gt;If they select &quot;AMAZON_PAY&quot; parent, all the children ASINs IDs are passes to the backed&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Amazon Pay is not selected with other parents like Electricity and DTH&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="180" width="220" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HZ6LXf2WOl9zafr3Ri61-48" value="&lt;div&gt;NO ASIN ID required of Amazon Pay, as all the children has ASINs ID and sent only those to service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
